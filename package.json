@@ -1,9 +1,14 @@
 {
   "name": "node-red-contrib-attack-detector-node",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Node-Red node of the Attack-Detector",
   "author": "Ozan Pekmezci",
   "license": "Apache-2.0",
+  "homepage": "https://github.com/ozanpekmezci/attack-detector-node",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ozanpekmezci/attack-detector-node.git"
+  },
   "dependencies": {
     "attack-detector": "^1.0.4"
   },
