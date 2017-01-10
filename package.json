@@ -10,7 +10,7 @@
     "url": "https://github.com/ozanpekmezci/attack-detector-node.git"
   },
   "dependencies": {
-    "attack-detector": "^1.0.4"
+    "attack-detector": "^1.0.5"
   },
   "node-red": {
     "nodes": {
